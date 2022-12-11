@@ -1,4 +1,4 @@
-﻿Patient ID,Age at Which Sequencing was Reported (Days),Age Group at Diagnosis in Years,Cancer Type,Drug Type,Gene Panel,Metastatic Site,Mutation Count,c,Overall Survival (Months),Overall Survival Status,Primary Tumor Site,Sample coverage,Sample Type,Sex,Somatic Status,TMB (nonsynonymous),Tumor Purity
+﻿Patient ID,Age at Which Sequencing was Reported (Days),Age Group at Diagnosis in Years,Cancer Type,Drug Type,Gene Panel,Metastatic Site,Mutation Count,c,Overall Survival (Months),Overall Survival Status,Primary Tumor Site,Sample coverage,Sample Type,Sex,Somatic Status,TMB,Tumor Purity
 P-0000057,41,31-50,Breast Cancer,PD-1/PDL-1,IMPACT341,NA,5,MDLC,0,1:DECEASED,Breast,835,Primary,Female,Matched,5.545776503,25
 P-0000062,80,>71,Esophagogastric Cancer,PD-1/PDL-1,IMPACT341,NA,6,GEJ,1,1:DECEASED,Esophagus,1176,Primary,Male,Matched,6.654931804,30
 P-0000063,62,61-70,Bladder Cancer,PD-1/PDL-1,IMPACT341,NA,13,BLCA,42,0:LIVING,Bladder,900,Primary,Male,Matched,15.52817421,70
